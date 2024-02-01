@@ -10,7 +10,6 @@
  * @str: string - (malloc string)
  * @len: length of string
  * @next: points to the next node
- * 
  * Description: singly linked list node structure
  */
 
